@@ -64,7 +64,7 @@ GitHub description would be:
    `outputs/figures/pca_cluster_scatter.png`.
 2. Decide whether the map section should be restored. If yes, add a reproducible
    geospatial data source and document its license.
-3. Convert the original notebook into a cleaned `notebooks/` version that calls
+3. Convert the exploratory notebook into a `notebooks/` version that calls
    `src/econ_clustering/pipeline.py` instead of duplicating logic.
 4. Add a small GitHub Actions workflow that runs `python -m py_compile` and the
    pipeline when data is available.

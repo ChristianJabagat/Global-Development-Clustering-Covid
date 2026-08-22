@@ -29,20 +29,6 @@ reproducible version is implemented as a Python pipeline in
   clustering models do not guarantee comparable numeric cluster IDs across
   years.
 
-## What Was Improved
-
-- Converted the notebook workflow into a reproducible script.
-- Added GitHub-safe data handling because `WDICSV.csv` is too large to commit.
-- Preserved the original hierarchical-clustering thresholds from the exploratory
-  notebook.
-- Added label-invariant stability metrics, including Adjusted Rand Index,
-  Normalized Mutual Information, and pairwise co-membership Jaccard.
-- Added data-quality, method-validation, country-mobility, and cluster-profile
-  outputs to make the analysis more auditable and interpretable.
-- Exported clean tables and figures for review, exposition, and portfolio display.
-- Avoided the notebook's heatmap-function overwrite issue by using one
-  three-period transition table.
-
 ## Project Structure
 
 ```text
