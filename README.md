@@ -11,50 +11,48 @@ compares country clusters across three periods:
 - 2020: Early COVID
 - 2021: Mid-COVID
 
-The exploratory notebook is in `EconClustering_ExploratoryAnalysis.ipynb`. The
-reproducible version is implemented as a Python pipeline in
-`src/econ_clustering/`.
-
 ![PCA cluster scatter](outputs/figures/pca_cluster_scatter.png)
+
+## Research Question
+
+To what extent did countries retain their pre-pandemic development peer groups,
+and to what extent did they move into new structural groupings during 2020 and
+2021?
+
+## Method
+
+The analysis filters selected WDI indicators, removes regional and income-group
+aggregates, keeps a complete country-year panel, standardizes features within
+each year, and compares country groupings using hierarchical clustering. K-Means
+and OPTICS are included as reference models.
+
+Cluster movement is evaluated with Adjusted Rand Index, Normalized Mutual
+Information, pairwise co-membership Jaccard, and cluster-to-cluster Jaccard
+overlap. These measures compare partitions without assuming that numeric cluster
+labels are consistent across separate yearly clustering runs.
 
 ## Key Results
 
-- The reproducible complete-panel analysis retains 115 countries and 18 WDI
-  indicators.
+- The complete-panel analysis retains 115 countries and 18 WDI indicators.
 - Cluster structure is moderately stable from 2019 to 2020, with pairwise
   co-membership Jaccard of 0.539.
 - Stability weakens by 2021, with pairwise co-membership Jaccard around 0.377
   for 2019-2021 and 0.374 for 2020-2021.
-- The pipeline reports label-invariant metrics because separately fitted
-  clustering models do not guarantee comparable numeric cluster IDs across
-  years.
+- OPTICS collapses to one usable cluster under the selected configuration, so it
+  is treated as a reference result rather than the main clustering model.
 
-## Project Structure
+## Files
 
-```text
-.
-├── EconClustering_ExploratoryAnalysis.ipynb
-├── AUTHORS.md
-├── README.md
-├── data/
-│   └── README.md
-├── docs/
-│   ├── analysis_quality_review.md
-│   ├── github_exposition_plan.md
-│   └── value_adding_analyses.md
-├── outputs/
-│   ├── analysis_summary.md
-│   ├── figures/
-│   └── tables/
-├── requirements.txt
-├── scripts/
-│   ├── download_wdi.py
-│   └── run_analysis.py
-└── src/
-    └── econ_clustering/
-        ├── __init__.py
-        └── pipeline.py
-```
+- `EconClustering_ExploratoryAnalysis.ipynb`: exploratory notebook.
+- `src/econ_clustering/pipeline.py`: reusable analysis pipeline.
+- `scripts/run_analysis.py`: command-line analysis runner.
+- `scripts/download_wdi.py`: WDI data download helper.
+- `outputs/analysis_summary.md`: summary of retained data and stability
+  metrics.
+- `outputs/tables/`: cleaned panel, cluster labels, validation metrics,
+  transition tables, and mobility summaries.
+- `outputs/figures/`: PCA, transition, Jaccard, missingness, and profile
+  figures.
 
 ## Reproduce the Analysis
 
@@ -80,14 +78,9 @@ python scripts/run_analysis.py --data WDICSV.csv --output outputs
 
 ## Outputs
 
-- Latest analysis summary:
-  - 115 complete countries retained.
-  - 18 indicators retained after missingness filtering.
-  - Cluster stability is strongest from 2019 to 2020 by pairwise
-    co-membership Jaccard, then weakens by 2021.
-- `outputs/analysis_summary.md`: concise reproducibility summary.
+- `outputs/analysis_summary.md`: main analysis summary.
 - `outputs/tables/clean_panel.csv`: final complete country-year feature panel.
-- `outputs/tables/data_quality_summary.csv`: compact audit of retained rows,
+- `outputs/tables/data_quality_summary.csv`: retained rows,
   countries, years, and features.
 - `outputs/tables/clusters_2019.csv`, `clusters_2020.csv`, `clusters_2021.csv`:
   country-level cluster assignments.
@@ -98,7 +91,7 @@ python scripts/run_analysis.py --data WDICSV.csv --output outputs
   for hierarchical clustering, K-Means, and OPTICS.
 - `outputs/tables/country_mobility_typology.csv`: peer-retention typology for
   country movement across periods.
-- `outputs/tables/cluster_profile_summary.csv`: readable cluster-size,
+- `outputs/tables/cluster_profile_summary.csv`: cluster-size,
   example-country, and top-feature summaries.
 - `outputs/figures/cluster_transition_heatmap.png`: visual transition overview.
 - `outputs/figures/pca_cluster_scatter.png`: PCA cluster scatter plots.
@@ -108,18 +101,17 @@ python scripts/run_analysis.py --data WDICSV.csv --output outputs
 - `outputs/figures/top_cluster_features.png`: strongest above-average cluster
   features.
 
-## Notes for GitHub
+## Data
 
-Do not commit `WDICSV.csv`; it is ignored by `.gitignore`. Commit the code,
-README, notebook, and lightweight outputs instead. If you want the repository to
-be self-contained, publish the raw data through a release asset, cloud storage,
-or Git LFS, then link to it from this README.
+The raw `WDICSV.csv` file is not tracked because of its size. It can be
+recreated from the World Bank WDI CSV archive:
 
-See `docs/github_exposition_plan.md` for the recommended polish path before
-publishing.
+```bash
+python scripts/download_wdi.py --output-dir .
+```
 
-See `docs/value_adding_analyses.md` for the most useful additional sections and
-analyses to build next.
+## Interpretation
 
-See `docs/analysis_quality_review.md` for the correctness and interpretation
-boundaries of the current analysis.
+The results should be read as exploratory evidence of structural similarity and
+movement among countries. The analysis does not estimate causal effects of the
+COVID-19 pandemic or specific policy interventions.
