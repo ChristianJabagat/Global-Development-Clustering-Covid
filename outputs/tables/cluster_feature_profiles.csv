@@ -1,0 +1,161 @@
+Year,Period,Hierarchical Cluster,Direction,Feature,Standardized Mean
+2019,Pre-COVID,0,high,"Agriculture, forestry, and fishing, value added (% of GDP)",0.794346438256168
+2019,Pre-COVID,0,high,"Self-employed, total (% of total employment) (modeled ILO estimate)",0.7671701540933217
+2019,Pre-COVID,0,high,"Personal remittances, received (% of GDP)",0.6780990252852676
+2019,Pre-COVID,0,high,GDP growth (annual %),0.5586001495410906
+2019,Pre-COVID,0,high,Domestic private health expenditure (% of current health expenditure),0.5214894573359742
+2019,Pre-COVID,0,high,Gross capital formation (% of GDP),0.2154915288549619
+2019,Pre-COVID,0,high,"Unemployment, total (% of total labor force) (modeled ILO estimate)",0.07085833722413534
+2019,Pre-COVID,0,high,"School enrollment, primary (% gross)",0.02396596290491007
+2019,Pre-COVID,0,low,Domestic general government health expenditure (% of current health expenditure),-0.7394946327189922
+2019,Pre-COVID,0,low,Domestic general government health expenditure (% of GDP),-0.6738334254953762
+2019,Pre-COVID,0,low,"Services, value added (% of GDP)",-0.5791420339705418
+2019,Pre-COVID,0,low,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",-0.5562990054334608
+2019,Pre-COVID,0,low,Current health expenditure (% of GDP),-0.386083270989635
+2019,Pre-COVID,0,low,Exports of goods and services (% of GDP),-0.3213167946373683
+2019,Pre-COVID,0,low,"Manufacturing, value added (% of GDP)",-0.29872030099634445
+2019,Pre-COVID,0,low,"Foreign direct investment, net inflows (% of GDP)",-0.15577915249392177
+2019,Pre-COVID,1,high,Domestic general government health expenditure (% of current health expenditure),0.5206294292814679
+2019,Pre-COVID,1,high,Domestic general government health expenditure (% of GDP),0.4902702556118049
+2019,Pre-COVID,1,high,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",0.373135929987321
+2019,Pre-COVID,1,high,"Services, value added (% of GDP)",0.3054052421246034
+2019,Pre-COVID,1,high,Current health expenditure (% of GDP),0.28985419684898833
+2019,Pre-COVID,1,high,"Manufacturing, value added (% of GDP)",0.2599885786260766
+2019,Pre-COVID,1,high,Exports of goods and services (% of GDP),0.017574171180166555
+2019,Pre-COVID,1,high,"School enrollment, primary (% gross)",2.6566647575327132e-05
+2019,Pre-COVID,1,low,"Agriculture, forestry, and fishing, value added (% of GDP)",-0.5221428914831321
+2019,Pre-COVID,1,low,"Self-employed, total (% of total employment) (modeled ILO estimate)",-0.5061205977558687
+2019,Pre-COVID,1,low,"Personal remittances, received (% of GDP)",-0.4659197721490092
+2019,Pre-COVID,1,low,GDP growth (annual %),-0.41795995851979273
+2019,Pre-COVID,1,low,Domestic private health expenditure (% of current health expenditure),-0.3742405760888161
+2019,Pre-COVID,1,low,Imports of goods and services (% of GDP),-0.1878715991546618
+2019,Pre-COVID,1,low,"Foreign direct investment, net inflows (% of GDP)",-0.1728774741553095
+2019,Pre-COVID,1,low,Gross capital formation (% of GDP),-0.12404558373919211
+2019,Pre-COVID,2,high,"Foreign direct investment, net inflows (% of GDP)",4.596444628288532
+2019,Pre-COVID,2,high,Exports of goods and services (% of GDP),3.494285598106414
+2019,Pre-COVID,2,high,Imports of goods and services (% of GDP),3.1486829522658235
+2019,Pre-COVID,2,high,Population density (people per sq. km of land area),3.045178610946527
+2019,Pre-COVID,2,high,"Services, value added (% of GDP)",1.9184350251602114
+2019,Pre-COVID,2,high,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",0.5663384340460121
+2019,Pre-COVID,2,high,Domestic general government health expenditure (% of current health expenditure),0.3589910659446758
+2019,Pre-COVID,2,high,GDP growth (annual %),0.12380757920886876
+2019,Pre-COVID,2,low,"Agriculture, forestry, and fishing, value added (% of GDP)",-0.9792843857798664
+2019,Pre-COVID,2,low,"Self-employed, total (% of total employment) (modeled ILO estimate)",-0.916319746502635
+2019,Pre-COVID,2,low,"Manufacturing, value added (% of GDP)",-0.6498537213101865
+2019,Pre-COVID,2,low,Gross capital formation (% of GDP),-0.5472961242187268
+2019,Pre-COVID,2,low,"Personal remittances, received (% of GDP)",-0.5129471927177489
+2019,Pre-COVID,2,low,"Unemployment, total (% of total labor force) (modeled ILO estimate)",-0.31833748513139115
+2019,Pre-COVID,2,low,"School enrollment, primary (% gross)",-0.2820251304938349
+2019,Pre-COVID,2,low,Domestic private health expenditure (% of current health expenditure),-0.1396519062766357
+2020,Early COVID,0,high,Domestic general government health expenditure (% of GDP),0.4904758806931684
+2020,Early COVID,0,high,Domestic general government health expenditure (% of current health expenditure),0.46842947786051037
+2020,Early COVID,0,high,Current health expenditure (% of GDP),0.35709341993293475
+2020,Early COVID,0,high,"Services, value added (% of GDP)",0.3466528367055219
+2020,Early COVID,0,high,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",0.2850522113789905
+2020,Early COVID,0,high,"Manufacturing, value added (% of GDP)",0.2319117634148074
+2020,Early COVID,0,high,"Unemployment, total (% of total labor force) (modeled ILO estimate)",0.19751908813353516
+2020,Early COVID,0,high,Exports of goods and services (% of GDP),0.115067217360491
+2020,Early COVID,0,low,"Self-employed, total (% of total employment) (modeled ILO estimate)",-0.6001187961481357
+2020,Early COVID,0,low,"Agriculture, forestry, and fishing, value added (% of GDP)",-0.5564686040108686
+2020,Early COVID,0,low,"Personal remittances, received (% of GDP)",-0.3911174294928769
+2020,Early COVID,0,low,Domestic private health expenditure (% of current health expenditure),-0.30569683545668813
+2020,Early COVID,0,low,"Foreign direct investment, net inflows (% of GDP)",-0.12780117323341825
+2020,Early COVID,0,low,GDP growth (annual %),-0.12166131891871944
+2020,Early COVID,0,low,Population density (people per sq. km of land area),-0.10439584773415822
+2020,Early COVID,0,low,"School enrollment, primary (% gross)",-0.027794425560289434
+2020,Early COVID,1,high,"Self-employed, total (% of total employment) (modeled ILO estimate)",0.9554345871785901
+2020,Early COVID,1,high,"Agriculture, forestry, and fishing, value added (% of GDP)",0.8991476984300101
+2020,Early COVID,1,high,"Personal remittances, received (% of GDP)",0.6187016555035103
+2020,Early COVID,1,high,Domestic private health expenditure (% of current health expenditure),0.4855009481832909
+2020,Early COVID,1,high,GDP growth (annual %),0.16768439288635306
+2020,Early COVID,1,high,"School enrollment, primary (% gross)",0.06334207434645951
+2020,Early COVID,1,high,Gross capital formation (% of GDP),-0.07437345083919006
+2020,Early COVID,1,high,"Foreign direct investment, net inflows (% of GDP)",-0.10994398834864957
+2020,Early COVID,1,low,Domestic general government health expenditure (% of GDP),-0.7472779157629852
+2020,Early COVID,1,low,Domestic general government health expenditure (% of current health expenditure),-0.7394288555814599
+2020,Early COVID,1,low,"Services, value added (% of GDP)",-0.6541374433861986
+2020,Early COVID,1,low,Current health expenditure (% of GDP),-0.5301010674050856
+2020,Early COVID,1,low,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",-0.46757954874501173
+2020,Early COVID,1,low,Exports of goods and services (% of GDP),-0.46593828113432345
+2020,Early COVID,1,low,"Manufacturing, value added (% of GDP)",-0.317866966327964
+2020,Early COVID,1,low,Imports of goods and services (% of GDP),-0.28935381457892523
+2020,Early COVID,2,high,"Foreign direct investment, net inflows (% of GDP)",4.503386027442752
+2020,Early COVID,2,high,Exports of goods and services (% of GDP),4.4192396959638796
+2020,Early COVID,2,high,Population density (people per sq. km of land area),4.101695748538709
+2020,Early COVID,2,high,Imports of goods and services (% of GDP),4.032082903983064
+2020,Early COVID,2,high,"Services, value added (% of GDP)",2.0701482977029824
+2020,Early COVID,2,high,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",0.6475271770443803
+2020,Early COVID,2,high,Domestic general government health expenditure (% of current health expenditure),0.62984116150384
+2020,Early COVID,2,high,Domestic general government health expenditure (% of GDP),0.2552074009640391
+2020,Early COVID,2,low,"Agriculture, forestry, and fishing, value added (% of GDP)",-1.059416653540745
+2020,Early COVID,2,low,"Self-employed, total (% of total employment) (modeled ILO estimate)",-0.9288656937038309
+2020,Early COVID,2,low,"Personal remittances, received (% of GDP)",-0.545568907211742
+2020,Early COVID,2,low,"Unemployment, total (% of total labor force) (modeled ILO estimate)",-0.46708519406558785
+2020,Early COVID,2,low,Domestic private health expenditure (% of current health expenditure),-0.45528489754999163
+2020,Early COVID,2,low,Gross capital formation (% of GDP),-0.43765255449008394
+2020,Early COVID,2,low,"Manufacturing, value added (% of GDP)",-0.4113582213445914
+2020,Early COVID,2,low,"School enrollment, primary (% gross)",-0.32938894435043226
+2021,Mid-COVID,0,high,"Personal remittances, received (% of GDP)",0.3755450435485281
+2021,Mid-COVID,0,high,"Unemployment, total (% of total labor force) (modeled ILO estimate)",0.23747696444198682
+2021,Mid-COVID,0,high,Gross capital formation (% of GDP),0.07962011387396106
+2021,Mid-COVID,0,high,Domestic general government health expenditure (% of current health expenditure),0.05032809006639116
+2021,Mid-COVID,0,high,"Manufacturing, value added (% of GDP)",0.04702026111871555
+2021,Mid-COVID,0,high,Domestic private health expenditure (% of current health expenditure),0.029331165447030138
+2021,Mid-COVID,0,high,GDP growth (annual %),-0.014536501264206374
+2021,Mid-COVID,0,high,"Self-employed, total (% of total employment) (modeled ILO estimate)",-0.0400692994467677
+2021,Mid-COVID,0,low,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",-0.43242467149047636
+2021,Mid-COVID,0,low,Exports of goods and services (% of GDP),-0.266876527283369
+2021,Mid-COVID,0,low,Current health expenditure (% of GDP),-0.21545064741347653
+2021,Mid-COVID,0,low,Domestic general government health expenditure (% of GDP),-0.2104211519980246
+2021,Mid-COVID,0,low,"Services, value added (% of GDP)",-0.162484566211987
+2021,Mid-COVID,0,low,Imports of goods and services (% of GDP),-0.16157793149316993
+2021,Mid-COVID,0,low,"Foreign direct investment, net inflows (% of GDP)",-0.12868643418963438
+2021,Mid-COVID,0,low,Population density (people per sq. km of land area),-0.11676334076573812
+2021,Mid-COVID,1,high,Population density (people per sq. km of land area),6.152946030726253
+2021,Mid-COVID,1,high,"Foreign direct investment, net inflows (% of GDP)",5.515391747718779
+2021,Mid-COVID,1,high,Exports of goods and services (% of GDP),3.4163489580676027
+2021,Mid-COVID,1,high,Imports of goods and services (% of GDP),2.993093670680561
+2021,Mid-COVID,1,high,"Services, value added (% of GDP)",1.846577399196723
+2021,Mid-COVID,1,high,GDP growth (annual %),1.3621466561953015
+2021,Mid-COVID,1,high,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",0.8704427537026245
+2021,Mid-COVID,1,high,Domestic general government health expenditure (% of current health expenditure),0.3214106942811459
+2021,Mid-COVID,1,low,"Agriculture, forestry, and fishing, value added (% of GDP)",-1.039593773719586
+2021,Mid-COVID,1,low,"Self-employed, total (% of total employment) (modeled ILO estimate)",-0.8602404572250429
+2021,Mid-COVID,1,low,"Personal remittances, received (% of GDP)",-0.6666156146164581
+2021,Mid-COVID,1,low,"Unemployment, total (% of total labor force) (modeled ILO estimate)",-0.6097884674696465
+2021,Mid-COVID,1,low,"School enrollment, primary (% gross)",-0.36666610754866197
+2021,Mid-COVID,1,low,Gross capital formation (% of GDP),-0.17172539619348284
+2021,Mid-COVID,1,low,Domestic private health expenditure (% of current health expenditure),-0.02952281445428339
+2021,Mid-COVID,1,low,"Manufacturing, value added (% of GDP)",0.0572664802878855
+2021,Mid-COVID,2,high,Domestic general government health expenditure (% of GDP),1.1141894515040367
+2021,Mid-COVID,2,high,"Services, value added (% of GDP)",0.9174454415140229
+2021,Mid-COVID,2,high,Current health expenditure (% of GDP),0.858275723946299
+2021,Mid-COVID,2,high,Domestic general government health expenditure (% of current health expenditure),0.8277249457309681
+2021,Mid-COVID,2,high,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",0.7311156043876891
+2021,Mid-COVID,2,high,Exports of goods and services (% of GDP),0.4684567062149652
+2021,Mid-COVID,2,high,Imports of goods and services (% of GDP),0.2756231563262713
+2021,Mid-COVID,2,high,GDP growth (annual %),0.09691910914284266
+2021,Mid-COVID,2,low,"Self-employed, total (% of total employment) (modeled ILO estimate)",-0.8690859583885707
+2021,Mid-COVID,2,low,"Agriculture, forestry, and fishing, value added (% of GDP)",-0.8070922627755861
+2021,Mid-COVID,2,low,Domestic private health expenditure (% of current health expenditure),-0.6470880779887123
+2021,Mid-COVID,2,low,"Personal remittances, received (% of GDP)",-0.5340240922624214
+2021,Mid-COVID,2,low,Gross capital formation (% of GDP),-0.2766689395110089
+2021,Mid-COVID,2,low,Population density (people per sq. km of land area),-0.08466580467018661
+2021,Mid-COVID,2,low,"Unemployment, total (% of total labor force) (modeled ILO estimate)",-0.06457837072057965
+2021,Mid-COVID,2,low,"Foreign direct investment, net inflows (% of GDP)",-0.04618606549632456
+2021,Mid-COVID,3,high,"Self-employed, total (% of total employment) (modeled ILO estimate)",1.4570993160295866
+2021,Mid-COVID,3,high,"Agriculture, forestry, and fishing, value added (% of GDP)",1.430770166487772
+2021,Mid-COVID,3,high,Domestic private health expenditure (% of current health expenditure),0.8877171745865696
+2021,Mid-COVID,3,high,"School enrollment, primary (% gross)",0.2337862513526718
+2021,Mid-COVID,3,high,Gross capital formation (% of GDP),0.23006384168779775
+2021,Mid-COVID,3,high,"Personal remittances, received (% of GDP)",-0.06697704663314383
+2021,Mid-COVID,3,high,"Foreign direct investment, net inflows (% of GDP)",-0.09800073712795643
+2021,Mid-COVID,3,high,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",-0.10361019361390872
+2021,Mid-COVID,3,low,Domestic general government health expenditure (% of current health expenditure),-1.3740801124840498
+2021,Mid-COVID,3,low,Domestic general government health expenditure (% of GDP),-1.158563847244261
+2021,Mid-COVID,3,low,"Services, value added (% of GDP)",-1.1211810479129969
+2021,Mid-COVID,3,low,Current health expenditure (% of GDP),-0.7602473189368509
+2021,Mid-COVID,3,low,"Unemployment, total (% of total labor force) (modeled ILO estimate)",-0.4297160204048809
+2021,Mid-COVID,3,low,Exports of goods and services (% of GDP),-0.3397887130250153
+2021,Mid-COVID,3,low,Imports of goods and services (% of GDP),-0.2743048040363836
+2021,Mid-COVID,3,low,GDP growth (annual %),-0.22632604141094237

@@ -1,0 +1,116 @@
+Country Name,Year,Period,Hierarchical Cluster,K-Means Cluster,OPTICS Cluster
+Albania,2021,Mid-COVID,3,1,0
+Algeria,2021,Mid-COVID,0,1,0
+Argentina,2021,Mid-COVID,0,0,0
+Armenia,2021,Mid-COVID,3,1,0
+Australia,2021,Mid-COVID,2,0,0
+Austria,2021,Mid-COVID,2,0,0
+Azerbaijan,2021,Mid-COVID,3,1,0
+Belarus,2021,Mid-COVID,0,0,0
+Belgium,2021,Mid-COVID,2,0,0
+Belize,2021,Mid-COVID,0,0,0
+Benin,2021,Mid-COVID,3,1,0
+Bhutan,2021,Mid-COVID,3,1,0
+Bolivia,2021,Mid-COVID,0,0,0
+Bosnia and Herzegovina,2021,Mid-COVID,0,0,0
+Brazil,2021,Mid-COVID,0,0,0
+Brunei Darussalam,2021,Mid-COVID,0,0,0
+Burkina Faso,2021,Mid-COVID,3,1,0
+Cabo Verde,2021,Mid-COVID,0,0,0
+Cambodia,2021,Mid-COVID,3,1,0
+Cameroon,2021,Mid-COVID,3,1,0
+Chile,2021,Mid-COVID,0,0,0
+China,2021,Mid-COVID,0,1,0
+Colombia,2021,Mid-COVID,0,0,0
+Costa Rica,2021,Mid-COVID,2,0,0
+Cote d'Ivoire,2021,Mid-COVID,3,1,0
+Croatia,2021,Mid-COVID,2,0,0
+Cyprus,2021,Mid-COVID,2,0,0
+Czechia,2021,Mid-COVID,2,0,0
+Denmark,2021,Mid-COVID,2,0,0
+Dominican Republic,2021,Mid-COVID,0,0,0
+Ecuador,2021,Mid-COVID,0,0,0
+"Egypt, Arab Rep.",2021,Mid-COVID,0,1,0
+El Salvador,2021,Mid-COVID,0,0,0
+Estonia,2021,Mid-COVID,2,0,0
+Fiji,2021,Mid-COVID,0,1,0
+Finland,2021,Mid-COVID,2,0,0
+France,2021,Mid-COVID,2,0,0
+"Gambia, The",2021,Mid-COVID,0,1,0
+Georgia,2021,Mid-COVID,0,0,0
+Germany,2021,Mid-COVID,2,0,0
+Ghana,2021,Mid-COVID,3,1,0
+Greece,2021,Mid-COVID,2,0,0
+Guatemala,2021,Mid-COVID,0,1,0
+Guinea,2021,Mid-COVID,3,1,0
+Honduras,2021,Mid-COVID,0,1,0
+Hungary,2021,Mid-COVID,2,0,0
+Iceland,2021,Mid-COVID,2,0,0
+India,2021,Mid-COVID,3,1,0
+Indonesia,2021,Mid-COVID,0,1,0
+Ireland,2021,Mid-COVID,2,0,0
+Israel,2021,Mid-COVID,2,0,0
+Italy,2021,Mid-COVID,2,0,0
+Japan,2021,Mid-COVID,2,0,0
+Jordan,2021,Mid-COVID,0,1,0
+Kazakhstan,2021,Mid-COVID,0,0,0
+"Korea, Rep.",2021,Mid-COVID,0,0,0
+Kyrgyz Republic,2021,Mid-COVID,0,1,0
+Latvia,2021,Mid-COVID,2,0,0
+Lesotho,2021,Mid-COVID,0,0,0
+Lithuania,2021,Mid-COVID,2,0,0
+Luxembourg,2021,Mid-COVID,2,2,0
+Madagascar,2021,Mid-COVID,3,1,0
+Malaysia,2021,Mid-COVID,0,0,0
+Malta,2021,Mid-COVID,1,2,0
+Mauritius,2021,Mid-COVID,0,0,0
+Mexico,2021,Mid-COVID,0,0,0
+Moldova,2021,Mid-COVID,0,0,0
+Mongolia,2021,Mid-COVID,3,1,0
+Montenegro,2021,Mid-COVID,0,0,0
+Morocco,2021,Mid-COVID,0,1,0
+Mozambique,2021,Mid-COVID,3,1,0
+Namibia,2021,Mid-COVID,0,0,0
+Nepal,2021,Mid-COVID,0,1,0
+Netherlands,2021,Mid-COVID,2,0,0
+New Zealand,2021,Mid-COVID,2,0,0
+Nicaragua,2021,Mid-COVID,0,0,0
+Niger,2021,Mid-COVID,3,1,0
+North Macedonia,2021,Mid-COVID,0,0,0
+Norway,2021,Mid-COVID,2,0,0
+Oman,2021,Mid-COVID,0,0,0
+Panama,2021,Mid-COVID,0,0,0
+Paraguay,2021,Mid-COVID,0,0,0
+Peru,2021,Mid-COVID,0,0,0
+Philippines,2021,Mid-COVID,0,1,0
+Poland,2021,Mid-COVID,0,0,0
+Portugal,2021,Mid-COVID,2,0,0
+Qatar,2021,Mid-COVID,0,0,0
+Romania,2021,Mid-COVID,0,0,0
+Russian Federation,2021,Mid-COVID,0,0,0
+Samoa,2021,Mid-COVID,0,1,0
+Saudi Arabia,2021,Mid-COVID,0,0,0
+Senegal,2021,Mid-COVID,3,1,0
+Serbia,2021,Mid-COVID,0,0,0
+Sierra Leone,2021,Mid-COVID,3,1,0
+Singapore,2021,Mid-COVID,1,2,0
+Slovak Republic,2021,Mid-COVID,2,0,0
+Slovenia,2021,Mid-COVID,2,0,0
+South Africa,2021,Mid-COVID,0,0,0
+Spain,2021,Mid-COVID,2,0,0
+Sri Lanka,2021,Mid-COVID,0,1,0
+Sweden,2021,Mid-COVID,2,0,0
+Switzerland,2021,Mid-COVID,2,0,0
+Tanzania,2021,Mid-COVID,3,1,0
+Thailand,2021,Mid-COVID,0,0,0
+Timor-Leste,2021,Mid-COVID,0,0,0
+Togo,2021,Mid-COVID,3,1,0
+Tonga,2021,Mid-COVID,0,1,0
+Turkiye,2021,Mid-COVID,0,0,0
+Ukraine,2021,Mid-COVID,0,0,0
+United Kingdom,2021,Mid-COVID,2,0,0
+United States,2021,Mid-COVID,2,0,0
+Uruguay,2021,Mid-COVID,2,0,0
+Uzbekistan,2021,Mid-COVID,3,1,0
+Viet Nam,2021,Mid-COVID,3,1,0
+Zimbabwe,2021,Mid-COVID,3,1,0

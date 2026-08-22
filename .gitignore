@@ -1,0 +1,13 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Raw World Bank data is larger than GitHub's normal 100 MB file limit.
+WDICSV.csv
+WDI_CSV.zip
+
+# Optional local geospatial files used by the original notebook.
+world-administrative-boundaries/

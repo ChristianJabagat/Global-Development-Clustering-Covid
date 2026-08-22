@@ -1,0 +1,8 @@
+metric,value
+complete_countries,115
+years,3
+country_year_rows,345
+retained_features,18
+features_above_30pct_missing_before_filter,24
+minimum_year,2019
+maximum_year,2021
